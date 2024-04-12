@@ -3,7 +3,7 @@
 ### About me
 
 - 💼 I'm a Electrical Engeneering student, with a Computer science focous
-- 🔭 FullStack student, with experience in Java and React.js applications
+- 🔭 FullStack student, with experience in Salesforce, C#, Java and React.js applications
 - 🌱 Interested on deepening my understanding of what I know, and learning new tecnologies
 
 ### Leangueges and technologies
@@ -32,7 +32,7 @@
 <br>
 
 <div align="center">
-<br><p align="centre"><b>Contagem de visitantes</b></p>  
+<br><p align="centre"><b>Visitors count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Zanotelli}/count.svg" /></p> 
 <br>
 </div>
