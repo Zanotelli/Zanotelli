@@ -31,7 +31,3 @@
 <a href = "mailto:gabriel.czbr@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gabriel-zanotelli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
-
----
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zanotelli&bg_color=0d1117&color=41e1cf&line=4169e1&point=c9d1d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<br>
